@@ -11,7 +11,7 @@ void main()
 	printf("armstrong number");
 	else
 	printf("not armstrong number");		
-
+	printf("added for check git");
 }
 int arm(int* p)
 {
@@ -31,3 +31,4 @@ int arm(int* p)
 	}
 	return(sum);
 }
+
